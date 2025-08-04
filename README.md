@@ -4,7 +4,10 @@
 
 *The Many I Was* is a psychological horror game developed in Unity that immerses players in a dark and unsettling world.  
 Explore eerie environments and piece together fragmented memories as the boundary between reality and nightmare blurs.
-[![Watch the Trailer](https://img.youtube.com/vi/x5wdcFADOtQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=x5wdcFADOtQ)
+## 🎬 Watch the Trailer
+
+> [Click here to watch the trailer on YouTube](https://www.youtube.com/watch?v=x5wdcFADOtQ)
+
 
 ---
 
